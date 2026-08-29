@@ -12,11 +12,11 @@ Repositorio: <https://github.com/tomasgonzalez0/DeployX>
 ## Conflicto intencional
 - Pull Request de resolución: [PR #7](https://github.com/tomasgonzalez0/DeployX/pull/7)
 - Rama que resolvió el conflicto: `carolina-arango`- Commit de resolución: `5089a15` - `Fix: resolve team message conflict`- Cambio previo de la fase 6: `97b3790` - `Cambios Fase 6`- Texto final esperado en `TeamMessage.txt`: `Estado del proyecto: preparado para entrega y en validación.`
+![Imagen conflicto intencial](src/img/conflicto-provocado.jpeg)
 #### Recuperación de cambios
  `git restore` y `git restore --staged`
- 
-![Imagen conflicto intencial](src/img/conflicto-provocado.jpeg)
-
+- ![Imagen del uso de git restore](src/img/git-restore.png)
+- ![Imagen de git restore --staged](src/img/git-restore-stage.png)
 ## git revert
 - Rama auxiliar: `samuel-cuello-revert`
 - Commit temporal: `d45307b` - `test: add temporary note`
@@ -27,5 +27,4 @@ Repositorio: <https://github.com/tomasgonzalez0/DeployX>
 ## Evidencias procedimentales
 - ![Imagen de Git Changes que evidencia un commit realizado desde Visual Studio Community 2026](src/img/commit-ui.png)
 - ![Imagen de Git Bash o terminal integrada que evidencie un commit realizado desde consola](src/img/commit-cli.png)
-- ![Imagen del uso de git restore](src/img/git-restore.png)
-- ![Imagen de git restore --staged](src/img/git-restore-stage.png)
+
