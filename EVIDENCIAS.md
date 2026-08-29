@@ -16,6 +16,7 @@ Repositorio: <https://github.com/tomasgonzalez0/DeployX>
  `git restore` y `git restore --staged`
  
 ![Imagen conflicto intencial](src/img/conflicto-provocado.jpeg)
+
 ## git revert
 - Rama auxiliar: `samuel-cuello-revert`
 - Commit temporal: `d45307b` - `test: add temporary note`
